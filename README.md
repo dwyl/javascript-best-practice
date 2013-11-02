@@ -3,10 +3,45 @@ javascript-best-practice
 
 A collection of JavaScript Best Practices
 
-I have collected these best practices from several sources.
-At present many of them are "*aspirational*" (not followed 100% of the time).
+- - -
 
-![Rainbows and Unicorns](https://raw.github.com/nelsonic/javascript-best-practice/master/images/hello-kitty-riding-unicorn-over-rainbow-798x339px.png "rainbows and unicorns (hello kitty)")
+![Fit vs Fat](https://raw.github.com/nelsonic/javascript-best-practice/master/images/fit-vs-fat.jpg "Fit vs Fat")
+
+Much like being in shape, 
+writing *consistent*, *maintainable* and *performant* code
+does not have to be an "*aspiration*", its a *decision* that needs to be made
+and stuck to.
+
+- - -
+
+### Short List
+
+1. Use the “Good Parts” (and avoid the “Bad parts”)
+2. Clear, Concise and Commented Code
+3. Meaningful Variable Names (Especially as Parameters)
+4. Avoid Global Variables
+5. Use JSLint to ensure your code is consistent.
+6. Always Unit Test your Code (even for simple/quick fixes and one-liners)
+7. Learn (“Real”/”Raw”) JavaScript before using Libraries like JQuery/Backbone
+8. Avoid Libraries/Modules/Frameworks until you understand them. especially when they are un-tested/documented if(tests===false) alert(“Don’t use it!”) … 
+9. Never Commit/Ship Broken/Buggy Code even when “PMs” Pressure You!
+10. Its only “Done” when its “Documented”.
+11. Learn CoffeeScript it will Set you Free!
+12. Learn & Use Patterns
+13. (Don’t be afraid to) Critique someone else’s code if they ignore any coding best practices (by pointing to the specific “guideline” that is not being followed)
+14. Compile your code with Source Maps
+
+
+
+
+My ambition is to write a system that lints JavaScript code during build
+and rejects code that does not adhere to these best practices.
+
+
+### Notes
+
+#### Sources
+
 
 
 

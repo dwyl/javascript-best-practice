@@ -37,6 +37,44 @@ and stick to. If you see someone writing junk, share this with them!
 My ambition is to write a *system* that lints JavaScript code during build
 and rejects code that does not adhere to these best practices.
 
+### Recommended Reading
+
+![Best Teachers](https://pbs.twimg.com/media/BIOLrIVCIAA7NJG.jpg:medium "Best Teachers")
+
+Completely New to JavaScript? Welcome! Start with this book:
+
+- **Dom Scripting**: Web Design with JavaScript and the Document Object Model - 
+www.amazon.com/dp/B004VH7LQE  *BUY IT*! Invest in knowing how to build the future! 
+(if you cannot afford the $18 for a secondhand “like new” copy, get in touch, 
+I will lend it to you!) 
+
+If you’ve already written a bit of JS and not read “The Good Parts” start there.
+
+- JavaScript **The Good Parts** (Douglas Crockford 2008): 
+http://www.amazon.com/dp/0596517742
+
+Once you have mastered the **Good Parts**, *hone* your **craft**:
+
+- JavaScript **Patterns** (Stoyan Stefanov 2010): 
+http://www.amazon.com/dp/0596806752/
+
+- **High Performance** JavaScript (Nicholas C. Zakas 2010):
+http://www.amazon.com/dp/059680279X/
+
+
+While I'm a **strong advocate** of **learning by doing**, 
+*sometimes* it pays to learn from the knowledge/mistakes of
+more experienced people by reading the books they have written...
+
+I keep a *small stack* of the best titles on my desk to recommend to my
+"*junior*" developers:
+
+![Stack of JavaScript Books](https://pbs.twimg.com/media/BHfMcdNCEAAFuj0.jpg "Do your Homework")
+
+If you live in London and can't afford to buy books, message me on 
+[LinkedIn](http://uk.linkedin.com/in/nelsonic),
+I'm happy to *give* you any of my books in exchange for *insights*. :-)
+
 
 ### Notes
 

@@ -20,7 +20,7 @@ and stick to. If you see someone writing junk, share this with them!
 5. Use **JSLint** to ensure your code is consistent.
 6. *Always* **Unit Test** your Code (even for simple/quick fixes and one-liners)
 7. *Learn* (“Real”/”Raw”) JavaScript (fundamentals) before using Libraries like JQuery/Backbone
-8. Avoid Libraries/Modules/Frameworks until you *understand* them. especially when they are un-tested/documented if(tests===false) alert(“Don’t use it!”) … 
+8. Avoid Libraries/Modules/Frameworks until you *understand* them. especially when they are un-tested/documented `if(tests===false) alert(“Don’t use it!”)` 
 9. **Never Commit**/Ship **Broken**/Buggy **Code** even when “PMs” Pressure You!
 10. Its only “**Done**” when its “**Documented**”.
 

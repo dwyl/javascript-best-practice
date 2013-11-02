@@ -13,25 +13,28 @@ and stick to. If you see someone writing junk, share this with them!
 
 ### Short List
 
-1. Use the “Good Parts” (and avoid the “Bad parts”)
-2. Clear, Concise and Commented Code
-3. Meaningful Variable Names (Especially as Parameters)
-4. Avoid Global Variables
-5. Use JSLint to ensure your code is consistent.
-6. Always Unit Test your Code (even for simple/quick fixes and one-liners)
-7. Learn (“Real”/”Raw”) JavaScript before using Libraries like JQuery/Backbone
-8. Avoid Libraries/Modules/Frameworks until you understand them. especially when they are un-tested/documented if(tests===false) alert(“Don’t use it!”) … 
-9. Never Commit/Ship Broken/Buggy Code even when “PMs” Pressure You!
-10. Its only “Done” when its “Documented”.
-11. Learn CoffeeScript it will Set you Free!
-12. Learn & Use Patterns
-13. (Don’t be afraid to) Critique someone else’s code if they ignore any coding best practices (by pointing to the specific “guideline” that is not being followed)
-14. Compile your code with Source Maps (to aid debugging)
+1. *Use* the “**Good Parts**” (and *avoid* the “*Bad parts*”)
+2. **Clear**, **Concise** and **Commented** Code
+3. **Meaningful Variable Names** (Especially as Parameters)
+4. *Avoid* **Global** Variables
+5. Use **JSLint** to ensure your code is consistent.
+6. *Always* **Unit Test** your Code (even for simple/quick fixes and one-liners)
+7. *Learn* (“Real”/”Raw”) JavaScript (fundamentals) before using Libraries like JQuery/Backbone
+8. Avoid Libraries/Modules/Frameworks until you *understand* them. especially when they are un-tested/documented if(tests===false) alert(“Don’t use it!”) … 
+9. **Never Commit**/Ship **Broken**/Buggy **Code** even when “PMs” Pressure You!
+10. Its only “**Done**” when its “**Documented**”.
+
+### Extra Mile
+
+11. Learn **CoffeeScript** it will Set you Free!
+12. Learn & Use **Patterns**
+13. (Don’t be afraid to) *Critique* someone else’s code if they ignore any coding best practices (by pointing to the *specific* “guideline” that is not being followed)
+14. Compile your code with **Source Maps** (to aid debugging)
 
 
 
 
-My ambition is to write a system that lints JavaScript code during build
+My ambition is to write a *system* that lints JavaScript code during build
 and rejects code that does not adhere to these best practices.
 
 

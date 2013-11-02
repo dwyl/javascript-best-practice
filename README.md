@@ -41,25 +41,46 @@ and rejects code that does not adhere to these best practices.
 
 ![Best Teachers](https://pbs.twimg.com/media/BIOLrIVCIAA7NJG.jpg:medium "Best Teachers")
 
-Completely New to JavaScript? Welcome! Start with this book:
+Completely **New to JavaScript**? Welcome! **Start** with *this book*:
 
 - **Dom Scripting**: Web Design with JavaScript and the Document Object Model - 
 www.amazon.com/dp/B004VH7LQE  *BUY IT*! Invest in knowing how to build the future! 
 (if you cannot afford the $18 for a secondhand “like new” copy, get in touch, 
 I will lend it to you!) 
 
-If you’ve already written a bit of JS and not read “The Good Parts” start there.
+If you are familiar with JavaScript and not yet read “The Good Parts” start!
 
 - JavaScript **The Good Parts** (Douglas Crockford 2008): 
 http://www.amazon.com/dp/0596517742
 
-Once you have mastered the **Good Parts**, *hone* your **craft**:
+Once you have *mastered* the **Good Parts**, *hone* your **craft**:
 
 - JavaScript **Patterns** (Stoyan Stefanov 2010): 
 http://www.amazon.com/dp/0596806752/
 
+- Learning JavaScript **Design Patterns** (Andy Osmani 2012):
+http://www.amazon.com/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/
+
+Now that you know the language its time for **Test Driven Development**!
+
+- **Test-Driven** JavaScript Development (Christian Johansen, 2010):
+http://www.amazon.com//dp/0321683919/  
+
+- **Testable** JavaScript (Mark Ethan Trostler 2013): 
+http://www.amazon.com/dp/1449323391/
+
+And/or **Behaviour-Driven Development** (BDD):
+
+- JavaScript Testing with **Jasmine**: JavaScript Behavior-Driven Development
+(Evan Hahn 2013): www.amazon.com/dp/1449356370/
+
+
+Time to Optimize your JavaScript? (Or looking for some simple wins?)
+
 - **High Performance** JavaScript (Nicholas C. Zakas 2010):
 http://www.amazon.com/dp/059680279X/
+
+
 
 
 While I'm a **strong advocate** of **learning by doing**, 

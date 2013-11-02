@@ -39,6 +39,13 @@ and rejects code that does not adhere to these best practices.
 
 #### Sources
 
+- http://www.w3.org/wiki/JavaScript_best_practices 
+- https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
+- http://www.developerdrive.com/2011/08/top-10-must-follow-javascript-best-practices-2/
+- http://www.codeproject.com/Articles/580165/JavaScript-Best-Practice
+- http://www.javascripttoolbox.com/bestpractices/
+- http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml 
+- http://net.tutsplus.com/tutorials/javascript-ajax/24-javascript-best-practices-for-beginners/
 
 
 
@@ -55,8 +62,8 @@ Nobody made any comments or contributions. :-(
 *Too "Busy"* coding to stop and think: "*Is my code consistent...?*" or 
 "*Is this maintainable by someone else?*" ... This is not the time or place 
 to voice my *frustration* at trying to get people in an established 
-organisation(with more **bad habits** than you can *imagine*) to adopt 
-industry best practices when it comes to JavaScript code. 
-Each to their own.
+organisation (with more **bad habits** than you can *imagine*) to adopt 
+industry best practices for JavaScript code. 
+Each to their own. 
 
 Its time to put this up on GitHub for a wider audience to access. ;-)

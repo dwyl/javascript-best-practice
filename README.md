@@ -3,16 +3,13 @@ javascript-best-practice
 
 A collection of JavaScript Best Practices
 
-- - -
-
 ![Fit vs Fat](https://raw.github.com/nelsonic/javascript-best-practice/master/images/fit-vs-fat.jpg "Fit vs Fat")
 
 Much like being in shape, 
 writing *consistent*, *maintainable* and *performant* code
-does not have to be an "*aspiration*", its a *decision* that needs to be made
-and stuck to.
+does not have to be "*aspiration*", its a *decision* we make
+and stick to. If you see someone writing junk, share this with them! 
 
-- - -
 
 ### Short List
 
@@ -29,7 +26,7 @@ and stuck to.
 11. Learn CoffeeScript it will Set you Free!
 12. Learn & Use Patterns
 13. (Don’t be afraid to) Critique someone else’s code if they ignore any coding best practices (by pointing to the specific “guideline” that is not being followed)
-14. Compile your code with Source Maps
+14. Compile your code with Source Maps (to aid debugging)
 
 
 

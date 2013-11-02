@@ -80,6 +80,19 @@ Time to Optimize your JavaScript? (Or looking for some simple wins?)
 - **High Performance** JavaScript (Nicholas C. Zakas 2010):
 http://www.amazon.com/dp/059680279X/
 
+### CoffeeScript
+
+**Why** CoffeeScript? http://vimeo.com/35258313
+**Try** CoffeeScript: http://coffeescript.org/ [click *Try*]
+**REPL**: http://repl.it/languages/CoffeeScript
+
+**Intro**: http://youtu.be/QgqVh_KpVKY 
+
+The **Little Book** on CoffeeScript: http://www.amazon.com/dp/1449321054/
+Available **FREE** at: http://arcturo.github.io/library/coffeescript/index.html
+
+Learn CoffeeScript by Testing with the “**Koans**”: 
+https://github.com/sleepyfox/coffeescript-koans 
 
 
 

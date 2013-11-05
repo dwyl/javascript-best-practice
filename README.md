@@ -82,14 +82,17 @@ http://www.amazon.com/dp/059680279X/
 
 ### CoffeeScript
 
-**Why** CoffeeScript? http://vimeo.com/35258313
-**Try** CoffeeScript: http://coffeescript.org/ [click *Try*]
-**REPL**: http://repl.it/languages/CoffeeScript
+- **Why** CoffeeScript? http://vimeo.com/35258313
+- **Try** CoffeeScript: http://coffeescript.org/ [click *Try*]
+- **REPL**: http://repl.it/languages/CoffeeScript
+- **Intro**: http://youtu.be/QgqVh_KpVKY 
 
-**Intro**: http://youtu.be/QgqVh_KpVKY 
+#### Book
 
 The **Little Book** on CoffeeScript: http://www.amazon.com/dp/1449321054/
 Available **FREE** at: http://arcturo.github.io/library/coffeescript/index.html
+
+#### Learn By Doing
 
 Learn CoffeeScript by Testing with the “**Koans**”: 
 https://github.com/sleepyfox/coffeescript-koans 

@@ -51,7 +51,7 @@ I will lend it to you!)
 If you are familiar with JavaScript and not yet read “The Good Parts” start!
 
 - JavaScript **The Good Parts** (Douglas Crockford 2008): 
-http://www.amazon.com/dp/0596517742
+http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/
 
 Once you have *mastered* the **Good Parts**, *hone* your **craft**:
 
@@ -108,6 +108,42 @@ I keep a *small stack* of the best titles on my desk to recommend to my
 If you live in London and can't afford to buy books, message me on 
 [LinkedIn](http://uk.linkedin.com/in/nelsonic),
 I'm happy to *give* you any of my books in exchange for *insights*. :-)
+
+
+### Test Driven Development - Writing Reliable Code
+
+If you are not doing Test Driven Development (TDD), you officially an ammateur; go do your *homework*!
+But seriously, testing is *easy* and will give you *confidence* in the code you have written. 
+
+Writing comprehensive tests allows you to refactor your code as you learn how to do things more efficiently (natural progression - you’re meant to keep learning; honing your craft!) and can build on your existing codebase without fear of breaking existing (decoupled) modules.
+
+There are a wide range of options for testing JavaScript:
+See: http://stackoverflow.com/questions/300855/looking-for-a-better-javascript-unit-test-tool 
+
+I recommend reading http://www.amazon.com/dp/0321683919/ and http://www.amazon.com/dp/1449323391/ to get a good understanding of the available options.
+
+I have used:
+Vows - http://vowsjs.org/
+Mocha - http://visionmedia.github.io/mocha/
+Jasmine - http://pivotal.github.io/jasmine/
+Chai - http://chaijs.com/ 
+JS-Test-Driver - https://code.google.com/p/js-test-driver/
+NodeJS Assert (core module) - http://nodejs.org/api/assert.html 
+
+And of these I favor Jasmine for its Simplicity. (but always keep open mind if someone has experience of others)
+
+
+
+Background - https://github.com/pivotal/jasmine/wiki/Background
+Try - http://tryjasmine.com/?
+Tutorial - http://net.tutsplus.com/tutorials/javascript-ajax/testing-your-javascript-with-jasmine/
+More: https://github.com/pivotal/jasmine/wiki/Suites-and-specs
+http://pivotal.github.com/jasmine/download.html
+https://github.com/pivotal/jasmine
+https://github.com/mhevery/jasmine-node
+http://evanhahn.com/?p=181
+
+
 
 
 ### Notes

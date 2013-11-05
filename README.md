@@ -123,25 +123,25 @@ See: http://stackoverflow.com/questions/300855/looking-for-a-better-javascript-u
 I recommend reading http://www.amazon.com/dp/0321683919/ and http://www.amazon.com/dp/1449323391/ to get a good understanding of the available options.
 
 I have used:
-Vows - http://vowsjs.org/
-Mocha - http://visionmedia.github.io/mocha/
-Jasmine - http://pivotal.github.io/jasmine/
-Chai - http://chaijs.com/ 
-JS-Test-Driver - https://code.google.com/p/js-test-driver/
-NodeJS Assert (core module) - http://nodejs.org/api/assert.html 
+- Vows: http://vowsjs.org/
+- Mocha: http://visionmedia.github.io/mocha/
+- Jasmine: http://pivotal.github.io/jasmine/
+- Chai: http://chaijs.com/ 
+- JS-Test-Driver: https://code.google.com/p/js-test-driver/
+- NodeJS Assert (core module): http://nodejs.org/api/assert.html 
 
 And of these I favor Jasmine for its Simplicity. (but always keep open mind if someone has experience of others)
 
+#### Jasmine
 
-
-Background - https://github.com/pivotal/jasmine/wiki/Background
-Try - http://tryjasmine.com/?
-Tutorial - http://net.tutsplus.com/tutorials/javascript-ajax/testing-your-javascript-with-jasmine/
-More: https://github.com/pivotal/jasmine/wiki/Suites-and-specs
-http://pivotal.github.com/jasmine/download.html
-https://github.com/pivotal/jasmine
-https://github.com/mhevery/jasmine-node
-http://evanhahn.com/?p=181
+- Background: https://github.com/pivotal/jasmine/wiki/Background
+- Try: http://tryjasmine.com/?
+- Tutorial: http://net.tutsplus.com/tutorials/javascript-ajax/testing-your-javascript-with-jasmine/
+- More: https://github.com/pivotal/jasmine/wiki/Suites-and-specs
+- Dowload: http://pivotal.github.com/jasmine/download.html
+- GitHub repo: https://github.com/pivotal/jasmine
+- Using Jasmine in Node.js (server side) https://github.com/mhevery/jasmine-node
+- Another good tutorial: http://evanhahn.com/?p=181
 
 
 

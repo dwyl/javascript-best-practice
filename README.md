@@ -39,12 +39,41 @@ JavaScript code while you are writing it and rejects code that does
 
 Maintainable JavaScript (Nicholas C. Zakas 2010) has *many* **practical** 
 JavaScript best practices. 
-I highly recommend you buy & read his book:
+I *highly recommend* you **buy & read** his **book**:
 http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680/
+
 
 ### Indentation
 
+Indentation should be **four spaces** *not tabs*.
 
+```javascript
+// Good
+if (true) {
+    makePandaHappy();
+}
+```
+
+### Line Length
+
+Lines should be *no longer* than **80 characters**. 
+Lines which go over 80 char should be wrapped after an operator (e.g. comma). 
+The **continuation** line should be *indented* **two levels** (8 chars).
+
+```javascript
+// Good
+registerNewUser(firstName, lastName, emailAddress, password,
+        preferredLanguage);
+
+// Bad: Continuation line only indented four spaces
+registerNewUser(firstName, lastName, emailAddress, password,
+    preferredLanguage);
+
+registerNewUser(firstName, lastName, emailAddress, password
+        , preferredLanguage);
+```
+**Note**: there are plenty of advoctes for "Leading Comma" or "Trailing Comma"
+see: http://www.sencha.com/forum/showthread.php?6796-Leading-comma-or-Trailing-comma-that-is-the-question.
 
 
 ## Recommended Reading
@@ -127,9 +156,10 @@ Learn CoffeeScript by Testing with the “**Koans**”:
 https://github.com/sleepyfox/coffeescript-koans 
 
 
+## Small Stack of Best Books
 
 While I'm a **strong advocate** of **learning by doing**, 
-*sometimes* it pays to learn from the knowledge/mistakes of
+*sometimes* it *pays* to learn from the knowledge/mistakes of
 more experienced people by reading the books they have written...
 
 I keep a *small stack* of the best titles on my desk to recommend to my

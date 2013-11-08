@@ -11,7 +11,7 @@ does not have to be "*aspiration*", its a *decision* we make
 and stick to. If you see someone writing junk, share this with them! 
 
 
-### Short List
+## Short List
 
 1. *Use* the “**Good Parts**” (and *avoid* the “*Bad parts*”)
 2. **Clear**, **Concise** and **Commented** Code
@@ -24,20 +24,30 @@ and stick to. If you see someone writing junk, share this with them!
 9. **Never Commit**/Ship **Broken**/Buggy **Code** even when “PMs” Pressure You!
 10. Its only “**Done**” when its “**Documented**”.
 
-### Extra Mile
+## Extra Mile
 
 11. <del>Learn **CoffeeScript** it will Set you Free!</del>
 12. Learn & Use **Patterns**
 13. (Don’t be afraid to) *Critique* someone else’s code if they ignore any coding best practices (by pointing to the *specific* “guideline” that is not being followed)
 14. Compile your code with **Source Maps** (to aid debugging)
 
+My ambition is to write a *system* that *automatically* reviews ("*lints*") 
+JavaScript code while you are writing it and rejects code that does 
+*not adhere* to these best practices.
+
+## Recommendations from Maintainable JavaScript
+
+Maintainable JavaScript (Nicholas C. Zakas 2010) has *many* **practical** 
+JavaScript best practices. 
+I highly recommend you buy & read his book:
+http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680/
+
+### Indentation
 
 
 
-My ambition is to write a *system* that lints JavaScript code during build
-and rejects code that does not adhere to these best practices.
 
-### Recommended Reading
+## Recommended Reading
 
 ![Best Teachers](https://pbs.twimg.com/media/BIOLrIVCIAA7NJG.jpg:medium "Best Teachers")
 
@@ -80,7 +90,7 @@ Time to Optimize your JavaScript? (Or looking for some simple wins?)
 - **High Performance** JavaScript (Nicholas C. Zakas 2010):
 http://www.amazon.com/dp/059680279X/
 
-### CoffeeScript
+## CoffeeScript
 
 I am a *huge fan* of CoffeeScript's elegance and simplicity.
 But its not as popular as I would have liked. :-(
@@ -94,19 +104,24 @@ that many people know the language! :-(
 
 I still recommend you *learn* coffeescript, its *so* **much** more fun to write
 and (with *practice*) read than JavaScript! And for small teams where everyone
-learns it, wipes the floor with JavaScript!
+learns it, CoffeeScript wipes the floor with JavaScript!
+
+### Further discussion: 
+- http://net.tutsplus.com/articles/interviews/should-you-learn-coffeescript/
+- http://stackoverflow.com/questions/2954557/has-anyone-used-coffeescript-for-a-production-application
+- https://tech.dropbox.com/2012/09/dropbox-dives-into-coffeescript/
 
 - **Why** CoffeeScript? http://vimeo.com/35258313
 - **Try** CoffeeScript: http://coffeescript.org/ [click *Try*]
 - **REPL**: http://repl.it/languages/CoffeeScript
 - **Intro**: http://youtu.be/QgqVh_KpVKY 
 
-#### Book
+### Book
 
 The **Little Book** on CoffeeScript: http://www.amazon.com/dp/1449321054/
 Available **FREE** at: http://arcturo.github.io/library/coffeescript/index.html
 
-#### Learn By Doing
+### Learn By Doing
 
 Learn CoffeeScript by Testing with the “**Koans**”: 
 https://github.com/sleepyfox/coffeescript-koans 

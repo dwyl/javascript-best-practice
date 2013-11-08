@@ -26,7 +26,7 @@ and stick to. If you see someone writing junk, share this with them!
 
 ### Extra Mile
 
-11. Learn **CoffeeScript** it will Set you Free!
+11. <del>Learn **CoffeeScript** it will Set you Free!</del>
 12. Learn & Use **Patterns**
 13. (Don’t be afraid to) *Critique* someone else’s code if they ignore any coding best practices (by pointing to the *specific* “guideline” that is not being followed)
 14. Compile your code with **Source Maps** (to aid debugging)
@@ -86,6 +86,15 @@ I am a *huge fan* of CoffeeScript's elegance and simplicity.
 But its not as popular as I would have liked. :-(
 
 ![Easy to Write Hard to Read](http://i.imgur.com/usNKZRt.png "CoffeeScript Discussion")
+
+I actually find CoffeeScript incredibly *easy* to read (*practice*?) but I *agree*
+with [@pgte](https://github.com/pgte) its harder to get contributions from others
+for open source projects if they are written in CoffeeScript, simply because not
+that many people know the language! :-(
+
+I still recommend you *learn* coffeescript, its *so* **much** more fun to write
+and (with *practice*) read than JavaScript! And for small teams where everyone
+learns it, wipes the floor with JavaScript!
 
 - **Why** CoffeeScript? http://vimeo.com/35258313
 - **Try** CoffeeScript: http://coffeescript.org/ [click *Try*]

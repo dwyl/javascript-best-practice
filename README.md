@@ -82,6 +82,11 @@ http://www.amazon.com/dp/059680279X/
 
 ### CoffeeScript
 
+I am a *huge fan* of CoffeeScript's elegance and simplicity.
+But its not as popular as I would have liked. :-(
+
+![Easy to Write Hard to Read](http://i.imgur.com/usNKZRt.png "CoffeeScript Discussion")
+
 - **Why** CoffeeScript? http://vimeo.com/35258313
 - **Try** CoffeeScript: http://coffeescript.org/ [click *Try*]
 - **REPL**: http://repl.it/languages/CoffeeScript

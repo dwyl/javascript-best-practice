@@ -75,6 +75,22 @@ registerNewUser(firstName, lastName, emailAddress, password
 **Note**: there are plenty of advoctes for "Leading Comma" or "Trailing Comma"
 see: http://www.sencha.com/forum/showthread.php?6796-Leading-comma-or-Trailing-comma-that-is-the-question.
 
+### Primitive Literals
+
+#### Strings
+
+Always use double quotes and span a single line.
+
+```javascript
+// Good
+var message = "Welcome to JayessVille!";
+
+// Bad: Single Quotes
+var message = 'single quotes confuse. avoid';
+```
+
+
+
 
 ## Recommended Reading
 

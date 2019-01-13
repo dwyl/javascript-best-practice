@@ -22,7 +22,7 @@ and stick to. If you see someone writing junk, share this with them!
 5. Use **JSLint** to ensure your code is consistent.
 6. *Always* **Unit Test** your Code (even for simple/quick fixes and one-liners)
 7. *Learn* (“Real”/”Raw”) JavaScript (fundamentals) before using Libraries like JQuery/Backbone
-8. Avoid Libraries/Modules/Frameworks until you *understand* them. especially when they are un-tested/documented `if(tests===false) alert(“Don’t use it!”)` 
+8. Avoid Libraries/Modules/Frameworks until you *understand* them, especially when they are un-tested/documented `if(tests===false) alert(“Don’t use it!”)` 
 9. **Never Commit**/Ship **Broken**/Buggy **Code** even when “PMs” Pressure You!
 10. Its only “**Done**” when its “**Documented**”.
 
@@ -74,7 +74,7 @@ registerNewUser(firstName, lastName, emailAddress, password,
 registerNewUser(firstName, lastName, emailAddress, password
         , preferredLanguage);
 ```
-**Note**: there are plenty of advoctes for "Leading Comma" or "Trailing Comma"
+**Note**: there are plenty of advocates for "Leading Comma" or "Trailing Comma"
 see: http://www.sencha.com/forum/showthread.php?6796-Leading-comma-or-Trailing-comma-that-is-the-question.
 
 ### Primitive Literals
@@ -192,7 +192,7 @@ I'm happy to *give* you any of my books in exchange for *insights*. :-)
 
 ### Test Driven Development - Writing Reliable Code
 
-If you are not doing Test Driven Development (TDD), you officially an ammateur; go do your *homework*!
+If you are not doing Test Driven Development (TDD), you officially an amateur; go do your *homework*!
 But seriously, testing is *easy* and will give you *confidence* in the code you have written. 
 
 Writing comprehensive tests allows you to refactor your code as you learn how to do things more efficiently (natural progression - you’re meant to keep learning; honing your craft!) and can build on your existing codebase without fear of breaking existing (decoupled) modules.
